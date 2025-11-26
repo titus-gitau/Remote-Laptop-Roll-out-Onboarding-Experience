@@ -1,0 +1,4 @@
+Ticket ID,Time (UTC+3),Reporter,Issue Summary,Steps Taken,Resolution
+TCK-001,2025-11-26 17:05,new.user,Could not connect work account,"Attempted via Settings → Accounts → Access work or school","Explained that ISO does not support Azure AD join"
+TCK-002,2025-11-26 17:20,new.user,Windows Update slow,"Rebooted VM, increased RAM","Updates installed successfully"
+TCK-003,2025-11-26 17:40,new.user,Teams installer failed,"Restarted installer with stable internet","Teams installed"

@@ -1,0 +1,14 @@
+PROJECT A
+Remote Laptop Roll-out & Onboarding Experience
+Scenario: A remote-first startup is deploying 100 laptops to new hires globally. Your team handles imaging, enrolling into MDM, first user support & onboarding call.
+
+Objectives & Tasks
+• Set up VM(s) for Windows/macOS/Linux image.
+• Create MDM enrollment instructions (e.g., Intune trial or Jamf-demo).
+• Conduct onboarding call simulation, capture user questions.
+• Write onboarding KB & ticket documentation.
+
+Tools
+VirtualBox/VMs, Intune free trial / Jamf demo, Zoom/Meet
+Deliverables
+GitHub repo with image log(optional), onboarding KB (Markdown), video transcript of session, ticket log.
