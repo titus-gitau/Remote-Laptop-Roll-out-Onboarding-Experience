@@ -29,11 +29,13 @@ Support Agent: Exactly. Go ahead and enter your company email address and passwo
 
 Titus: Done. It says I’m connected now.
 
+Titus: I can see  my device showing “Managed by organization”?
+
+Support Agent: That’s normal, Titus. It means your device is enrolled in the company’s MDM  and is being managed with policies, apps, and security settings. This ensures your laptop stays secure and compliant.
 
 Support Agent: Perfect. That means your laptop is now fully onboarded and managed by our MDM platform.
 
 Titus: Great! What’s next?
-
 
 Support Agent: Next, let’s install your essential apps. Open your browser and go to the Microsoft Teams download page.
 

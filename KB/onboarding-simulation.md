@@ -1,11 +1,6 @@
-# Onboarding Simulation Knowledge Base
-
-
 # Onboarding Simulation Knowledge Base  
 
 This document contains all steps performed during the onboarding simulation.
-
-
 
 
 
