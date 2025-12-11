@@ -1,9 +1,0 @@
-Ticket ID,Issue Description,User,Priority,Status,Resolution
-001,User cannot login with temporary password,Grace Akoth,High,Resolved,"Password reset, user logged in successfully"
-002,VPN client not connecting,Mary Wambui,Medium,Open,Troubleshooting VPN settings ongoing
-003,Device not showing in FleetDM,James Kimani,High,Resolved,Reinstalled osquery agent and enrolled device
-004,Microsoft Teams not launching,Linda Pendo,Low,Closed,Application repaired through OPSI
-005,Laptop firewall disabled,Chris Olamide,Medium,Open,IT advised user to enable firewall and verify
-006,Device encryption not enabled,Johnstone Kemu,High,Resolved,BitLocker enabled and device rebooted
-007,Windows updates failing,Peter Larry,Medium,Open,Pending manual update installation
-008,New hire laptop not enrolling automatically,Sam Nzwili,High,Resolved,Re-enrolled device and verified enrollment

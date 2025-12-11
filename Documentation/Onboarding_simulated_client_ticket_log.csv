@@ -1,0 +1,6 @@
+Ticket ID,Date,User,Issue,Status,Notes
+TCK-001,10-01-25,grace.akoth@abc.com,Laptop login failure on first setup,Resolved,Password reset and login successful
+TCK-002,11-01-25,sam.kinyanjui@abc.com,MDM enrollment not appearing in Miradore,In Progress,IT verifying device sync
+TCK-003,12-01-25,sarah.kili@abc.com,Missing VPN client,Resolved,VPN manually installed
+TCK-004,13-01-25,james.nzwili@abc.com,Teams not signing in,Open,Pending troubleshooting
+TCK-005,14-01-25,donald.gara@abc.com,BitLocker not enabled,Resolved,Encryption turned on

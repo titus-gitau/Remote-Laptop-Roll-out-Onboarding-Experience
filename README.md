@@ -1,35 +1,39 @@
-
-# Remote Laptop Rollout & Onboarding Simulation Project
-
-## Project Overview
-This project simulates a remote-first startup deploying 100 laptops globally. It covers:
-- Windows 10 VM imaging using OPSI
-- MDM enrollment & policy enforcement using FleetDM
-- Onboarding call simulation
-- Knowledge base & IT ticket log
-
-## Repository Structure
-- Documentation/:Documents with step-by-step guides and screenshots
-- Screenshots/: Visual evidence of tasks completed
-- Configuration/: Docker & OPSI configuration files
-
-## Tools Used
-- VirtualBox (VMs)
-- OPSI (Imaging)
-- FleetDM (MDM)
-- Zoom/Google Meet (Onboarding Call)
-- Documents (KB & Logs)
-
-## How to Use
-1. Open documentation for step-by-step instructions
-2. Review screenshots for verification
-3. Use configuration files to replicate the environment
+# Remote Laptop Roll-out & Onboarding Experience
 
 
+## **Project Overview**
+
+This project simulates a global remote laptop roll-out for a company. It demonstrates the process of preparing laptops, enrolling them into an MDM system (Miradore Full Management), conducting a first-day onboarding call, and documenting IT support interactions.  
+
+The system covers:  
+- Laptop preparation and imaging  
+- MDM enrollment using provisioning packages  
+- User onboarding and first-day setup  
+- Capturing common support issues  
 
 
+## **Project Deliverables**
 
+| Deliverable | Description |
+|------------|-------------|
+| **MDM Enrollment Instructions** | Step-by-step guide to enroll a device into Miradore Full Management |
+| **New Hire Setup Guide** | Instructions for a new employee to complete initial laptop setup |
+| **Onboarding Call Transcript** | Simulated IT support call capturing typical questions/issues |
+| **Sample Ticket Log** | CSV log of common issues encountered by new hires |
 
+---
 
+## **Folder Structure**
+
+Remote_Laptop_Onboarding/
+│
+├── Documentation/
+│   ├── MDM_Enrollment_Instructions.pdf
+│   ├── Onboarding_Knowledge_base.pdf
+│   ├── Onboarding_Call_Transcript.df
+│   └── Sample_Ticket_Log.csv
+│
+├── Screenshots(images)
+   
 
 
